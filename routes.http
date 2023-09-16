@@ -2,8 +2,8 @@ POST  http://localhost:3333/videos
 Content-Type: application/json
 
 {
-    "title": "Vídeo 3",
-    "description": "Esse é o terceiro vídeo",
+    "title": "Vídeo 1",
+    "description": "Esse é o Primeiro vídeo",
     "duration": 180
 }
 
